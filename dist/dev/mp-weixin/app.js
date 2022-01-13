@@ -8,7 +8,7 @@ if (!Math) {
 const _sfc_main = /* @__PURE__ */ common_vendor.defineComponent({
   setup(__props) {
     common_vendor.onLaunch(() => {
-      console.log("App Launch");
+      console.log("App Launchww");
     });
     common_vendor.onShow(() => {
       console.log("App Show");
